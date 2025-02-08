@@ -1,1 +1,0 @@
-#import <OrientationLockModule/CCUIOrientationLockModule.h>

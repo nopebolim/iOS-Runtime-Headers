@@ -1,1 +1,0 @@
-#import <MenstrualCyclesDaemonPlugin/HDMenstrualCyclesPlugin.h>
